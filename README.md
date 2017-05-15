@@ -6,7 +6,7 @@ Author: luca.mella@studio.unibo.it
 
 # Goal
 
-Have you ever lost any bookmarked article/paper because it has been moved/removed by the publisher? Well sometimes it happens and to overcome this case without relying on (the faith)[https://www.archive.org].
+Have you ever lost any bookmarked article/paper because it has been moved/removed by the publisher? Well sometimes it happens and to overcome this case without relying on [the faith](https://www.archive.org).
 
 # Project
 
