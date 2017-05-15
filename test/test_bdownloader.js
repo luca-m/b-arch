@@ -142,7 +142,8 @@ describe("Test Bookmark Downloader", (o)=>{
     var fetch= new MokFetcher();
 		var bd = new bdownloader.BookmarkDownloader(arch,[fetch])
     bd.download_bookmarks(sample_bmarks)
-    .then(()=>{
+    .then(stats=>{
+      console.log(stats)
       assert.lengthOf(arch._stored,3,'some bookmarks not stored');
       done();
 		})
