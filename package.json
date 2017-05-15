@@ -1,0 +1,30 @@
+{
+  "name": "b-arch",
+  "version": "1.0.0",
+  "description": "Backup and Archibe you Bookmarks",
+  "main": "index.js",
+  "dependencies": {
+    "async-q": "^0.3.1",
+    "bookmarks-parser": "0.0.3",
+    "command-line-args": "^4.0.4",
+    "file-type": "^4.3.0",
+    "fs-extra": "^3.0.0",
+    "phantomjs-pdf": "^0.1.2",
+    "read-chunk": "^2.0.0",
+    "sanitize-filename": "^1.6.1",
+    "temp": "^0.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "test": "mocha test/test_*.js"
+  },
+  "keywords": [
+    "bookmarks",
+    "archive"
+  ],
+  "author": "luca-m",
+  "license": "ISC"
+}
