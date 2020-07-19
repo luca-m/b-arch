@@ -1,6 +1,6 @@
 # b-arch
 
-_A Backup Archiver._
+_A Bookmars Archiver._
 
 Author: luca.mella@studio.unibo.it
 
